@@ -1,0 +1,10 @@
+﻿  test.c
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(224,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(224,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(225,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(225,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(226,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(226,9): message : 请考虑在格式字符串中使用“%zd”
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(229,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Redmi\Desktop\C\test_初识C语言（2）\test_初识C语言（2）\test.c(229,9): message : 请考虑在格式字符串中使用“%zd”
+  test_初识C语言（2）.vcxproj -> C:\Users\Redmi\Desktop\C\test_初识C语言（2）\x64\Debug\test_初识C语言（2）.exe
