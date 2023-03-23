@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\Redmi\Desktop\C\初识C语言（3）\初识C语言（3）\test.c(197,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\Users\Redmi\Desktop\C\初识C语言（3）\初识C语言（3）\test.c(197,9): message : 请考虑在格式字符串中使用“%zd”
+  初识C语言（3）.vcxproj -> C:\Users\Redmi\Desktop\C\初识C语言（3）\x64\Debug\初识C语言（3）.exe
