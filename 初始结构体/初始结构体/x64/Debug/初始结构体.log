@@ -1,0 +1,4 @@
+﻿  test.c
+C:\Users\Redmi\Desktop\C\初始结构体\初始结构体\test.c(16,6): warning C4101: “s2”: 未引用的局部变量
+C:\Users\Redmi\Desktop\C\初始结构体\初始结构体\test.c(15,13): warning C4101: “s1”: 未引用的局部变量
+  初始结构体.vcxproj -> C:\Users\Redmi\Desktop\C\初始结构体\x64\Debug\初始结构体.exe
